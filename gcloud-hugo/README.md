@@ -1,8 +1,12 @@
 # Hugo + Go + GCloud SDK
 
+Docker: `blacha/gcloud-hugo`
 
 Pipeline to deploy static sites made with hugo into Google cloud Storage.
 
+- GCloud SDK  154.0.1
+- Hugo 0.21
+- Go 1.8.1
 
 
 ```
